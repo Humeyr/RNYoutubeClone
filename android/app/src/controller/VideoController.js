@@ -8,7 +8,7 @@ class VideosController {
         'https://www.googleapis.com/youtube/v3/videos',
         {
           params: {
-            key: 'AIzaSyBRlzcezscHTz5JuDDSYi9tC8iE4xM3x1A',
+            key: '',
             part: 'snippet',
             chart: 'mostPopular',
             maxResult: 10,
